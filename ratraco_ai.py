@@ -36,7 +36,7 @@ import torch
 import numpy as np
 from PIL import Image, ImageDraw
 import re
-
+import numpy
 # Configure Tesseract executable path
 pytesseract.pytesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
